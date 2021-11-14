@@ -1,3 +1,20 @@
 body {
     background: orange;
   }
+
+ul {
+    background: pink;
+    font-size: 32px;
+    text-align: center;
+}
+
+#para {
+    font-size: 32px;
+    text-align: center;
+    text-shadow: orchid;
+}
+
+#clickFor {
+    text-align: center;
+    
+}
